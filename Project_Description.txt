@@ -1,0 +1,4 @@
+﻿Title: Temperature & Humidity IoT Node
+Overview: ESP8266 Blynk node broadcasting ambient temperature and humidity with remote buzzer control.
+Hardware: ESP8266 NodeMCU, DHT sensor, buzzer.
+Notes: Update template IDs and Wi-Fi credentials before deploying to production.
