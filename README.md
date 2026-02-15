@@ -1,4 +1,6 @@
-﻿# Temperature & Humidity IoT Node
+﻿# Temperature Humidity IoT
+
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-IoT-orange) ![Status](https://img.shields.io/badge/status-Active-success)
 
 ESP8266 Blynk node broadcasting ambient temperature and humidity with remote buzzer control.
 
